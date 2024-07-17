@@ -1,2 +1,1 @@
-number sequence generator in rast 
-
+number sequence generator in rust
